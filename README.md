@@ -1,4 +1,4 @@
-# Area-of-Shapes-Project
+# Area of Shapes Project
 
 
 
